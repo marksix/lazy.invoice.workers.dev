@@ -1,4 +1,4 @@
-name = "lazy"
-account_id = "2311a34ed4b9a31a0c6a154fb061327a" # invoice.workers.dev
+name = "pdf"
+account_id = "37dbaa9f62d0a59bc14229bd7c598107" # invoice.workers.dev
 type = "webpack"
 workers_dev = true
